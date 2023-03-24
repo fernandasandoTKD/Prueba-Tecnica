@@ -1,6 +1,19 @@
-# PruebaTecnica
+# Prueba Tecnica Commity
+Here you will find the consumption of the API in free version, in it you will have the possibility to obtain weather data from 5 cities in the world. 
+
+This platform was developed for selection process purposes. 
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+
+
+## Installation
+* $ git clone https://github.com/fernandasandoTKD/Prueba-Tecnica.git
+* $ cd pruebaTecnica
+* $ npm install -g @angular/cli
+* $ ng serve
+
 
 ## Development server
 
@@ -25,3 +38,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Autor
+[Fernanda Diaz Sandoval](https://www.linkedin.com/in/lufe-diaz-s/)
